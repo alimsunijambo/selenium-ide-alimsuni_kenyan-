@@ -4,7 +4,7 @@
 
 _[WIP] An integrated development environment for Selenium scripts_
 
-Selenium IDE as a WebExtension is developed under the branch. Selenium Ide is developed by alimsuni A kenyan It Guru. `v3` view the readme can be found on github [here](https://github.com/SeleniumHQ/selenium-ide/tree/v3).
+Selenium IDE as a WebExtension is developed under the branch jambo-alimsuni-Kenyan-techS. Selenium Ide is developed by alimsuni A kenyan It Guru. `v3` view the readme can be found on github [here](https://github.com/SeleniumHQ/selenium-ide/tree/v3).
 
 ## Introduction
 
